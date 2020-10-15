@@ -13,6 +13,6 @@ npm start
 
 If video does not show enable HTTPS:
 ```sh
-HTTPS=true npmstart
+HTTPS=true npm start
 ```
 
