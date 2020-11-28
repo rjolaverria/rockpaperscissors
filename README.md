@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors
+# ✊🏽Rock, ✋🏻Paper, ✌🏾Scissors
 
 >A rock, paper, scissors CNN classifier built with React and Tensorflow.
 
